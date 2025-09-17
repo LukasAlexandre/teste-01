@@ -1,0 +1,24 @@
+# Ignore large/binary images and firmware by default
+*.wim
+*.iso
+*.bin
+*.exe
+*.efi
+*.sys
+*.dll
+*.log
+*.pdf
+
+# Git
+.git/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Other archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
