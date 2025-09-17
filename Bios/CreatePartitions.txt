@@ -1,0 +1,11 @@
+rem deletar particoes
+
+select disk 0
+clean
+clean
+clean
+
+select disk 1
+clean
+clean
+clean

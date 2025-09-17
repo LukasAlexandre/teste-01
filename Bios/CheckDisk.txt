@@ -1,0 +1,5 @@
+list disk
+sel disk 0
+clean
+clean
+clean
